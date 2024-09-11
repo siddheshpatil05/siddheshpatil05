@@ -2,7 +2,7 @@
 <p align="center">
 I'm a passionate developer with a love for building projects. <br>
 I specialize in full-stack development and enjoy working with the new technologies. <br>
-<img src="https://github.com/siddheshpatil05/siddheshpatil05/blob/main/WhatsApp%20Image%202024-09-11%20at%2023.12.24.jpeg" width="150" height="150">
+<img src="WhatsApp_Image_2024-09-11_at_23.12.24-removebg-preview.png" width="150" height="150">
 </p>
 
 <h2 align="center"> 🔭 I’m currently working on.. </h2>
