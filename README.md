@@ -1,7 +1,7 @@
 <h1 align="center">Hey, Siddhesh these side 👋</h1>
 <p align="center">
 I'm a passionate developer with a love for building projects. <br>
-I specialize in full-stack development and enjoy working with the new technologies. <br>
+I specialize in full-stack development and Cloud Services and enjoy working with the new technologies. <br>
 <img src="WhatsApp_Image_2024-09-11_at_23.12.24-removebg-preview.png" width="150" height="150">
 </p>
 
